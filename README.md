@@ -4,11 +4,11 @@
   
 <div align="center">
 
-$\text{\color{#705b8d}info ‎}$\
-$\text{\color{#705b8d}info ‎ ‎ ‎ ‎‎/ ‎ ‎ ‎ ‎info }$\
-$\text{\color{#79babe}info ‎ ♡ ‎ info}$
+$\text{\color{#5D1024}info ‎}$\
+$\text{\color{#5D1024}info ‎ ‎ ‎ ‎‎/ ‎ ‎ ‎ ‎info }$\
+$\text{\color{#5D1024}info ‎ 𖹭. ‎ info}$
 
 
-[link](link)$\texttt{\color{#79babe} ‎ ♡ ‎ }$[link](link)$\texttt{\color{#be72b7} ‎ ♡ ‎ }$[link](link)
+[link](link)$\texttt{\color{#5D1024} ‎ 𖹭. ‎ }$[link](link)$\texttt{\color{#5D1024} ‎ 𖹭. ‎ }$[link](link)
     
 </div>
